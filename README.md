@@ -32,7 +32,7 @@ Here, you'll find a curated list of academic papers, articles, and publications 
 - (2020) [UNQOVERing Stereotypical Biases via Underspecified Questions](https://arxiv.org/abs/2010.02428)
 
 ### National Bias
-- (8-2023  [Unmasking Nationality Bias: A Study of Human Perception of Nationalities in AI-Generated Articles] (https://arxiv.org/abs/2308.04346)
+- (8-2023) [Unmasking Nationality Bias: A Study of Human Perception of Nationalities in AI-Generated Articles](https://arxiv.org/abs/2308.04346)
 - (2-2023) [Nationality Bias in Text Generation](https://arxiv.org/abs/2302.02463)
 - (2022) [French CrowS-Pairs: Extending a challenge dataset for measuring social bias in masked language models to a language other than English](https://aclanthology.org/2022.acl-long.583/)
 
