@@ -8,7 +8,7 @@ This repository aims to:
 - Serve as a centralized resource not only for internal BRIN researchers, but also researchers from the other institutions, students, and LLM enthusiasts/practitioners.
 - Enhance understanding of how to create a good taxonomy for alignment benchmark dataset.
 - Enhance understanding of how LLMs aligns with various human values and cultural contexts.
-- Better understand the research gap in LLM alignment for low resource language, particularly Indonesian language.
+- Better understand the research gap in LLM alignment for low resource language, particularly for Indonesian language and local languages in Indonesia.
 - Stimulate discussion and promote further research in this critical area of LLM alignment and benchmark dataset creation.
 
 ## Content
