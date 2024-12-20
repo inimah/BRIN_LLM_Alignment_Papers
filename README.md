@@ -27,7 +27,7 @@ Here, you'll find a curated list of academic papers, articles, and publications 
 ### General: LLM Bias
 - (5-2023) [Having Beer after Prayer? Measuring Cultural Bias in Large Language Models](https://arxiv.org/abs/2305.14456)
 - (4-2023) [Should ChatGPT be Biased? Challenges and Risks of Bias in Large Language Models](https://arxiv.org/pdf/2304.03738.pdf)
-- (3-2034) [Whose Opinions Do Language Models Reflect?](https://arxiv.org/pdf/2303.17548.pdf)
+- (3-2023) [Whose Opinions Do Language Models Reflect?](https://arxiv.org/pdf/2303.17548.pdf)
 - (2021) [Gender bias, social bias, and representation in Bollywood and Hollywood](https://www.sciencedirect.com/science/article/pii/S266638992100283X)
 - (2020) [UNQOVERing Stereotypical Biases via Underspecified Questions](https://arxiv.org/abs/2010.02428)
 
