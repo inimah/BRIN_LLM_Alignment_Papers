@@ -1,4 +1,4 @@
-# Compilation of Papers on LLM Alignment based on socio-cultural contexts
+# Compilation of Papers on LLM Alignment based on Socio-Cultural Contexts
 
 ## Introduction
 This repository is dedicated to the collection of research papers on LLM alignment based on socio-cultural contexts, particularly for low resource languages beyond English. We mainly focus on Indonesian language as target language to evaluate on, but the repository also lists papers based on English and South East Asia (SEA) benchmark datasets as scientific references.
