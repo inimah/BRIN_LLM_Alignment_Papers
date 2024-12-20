@@ -67,7 +67,7 @@ Here, you'll find a curated list of academic papers, articles, and publications 
 - (2020) [Artificial Intelligence, Values, and Alignment](https://link.springer.com/article/10.1007/s11023-020-09539-2)
 
 ### Word Embedding bias
-- [Assessing Social and Intersectional Biases in Contextualized Word Representations](https://arxiv.org/abs/1911.01485)
+- (11-2019) [Assessing Social and Intersectional Biases in Contextualized Word Representations](https://arxiv.org/abs/1911.01485)
 
 ## Conferences and Workshops
 Find information on relevant conferences and workshops focusing on cultural alignment in AI:
