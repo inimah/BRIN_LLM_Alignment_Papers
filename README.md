@@ -11,7 +11,7 @@ This repository aims to:
 - Better understand the research gap in LLM alignment for low resource language, particularly Indonesian language.
 - Stimulate discussion and promote further research in this critical area of LLM alignment and benchmark dataset creation.
 
-## Contents
+## Content
 - [Papers](#papers)
 - [Conferences and Workshops](#conferences-and-workshops)
 - [How to Contribute](#how-to-contribute)
