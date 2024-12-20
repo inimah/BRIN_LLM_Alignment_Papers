@@ -25,7 +25,6 @@ Here, you'll find a curated list of academic papers, articles, and publications 
 - (7-2021) [Gender Bias in Text: Origin, Taxonomy, and Implications](https://aclanthology.org/2021.gebnlp-1.5/)
 
 ### General: LLM Bias
-- (5-2023) [Having Beer after Prayer? Measuring Cultural Bias in Large Language Models](https://arxiv.org/abs/2305.14456)
 - (4-2023) [Should ChatGPT be Biased? Challenges and Risks of Bias in Large Language Models](https://arxiv.org/pdf/2304.03738.pdf)
 - (3-2023) [Whose Opinions Do Language Models Reflect?](https://arxiv.org/pdf/2303.17548.pdf)
 - (2021) [Gender bias, social bias, and representation in Bollywood and Hollywood](https://www.sciencedirect.com/science/article/pii/S266638992100283X)
@@ -46,6 +45,7 @@ Here, you'll find a curated list of academic papers, articles, and publications 
 - (9-2023) [BHASA: A Holistic Southeast Asian Linguistic and Cultural Evaluation Suite for Large Language Models](https://arxiv.org/abs/2309.06085)
   
 ### Cultural Bias
+- (5-2023) [Having Beer after Prayer? Measuring Cultural Bias in Large Language Models](https://arxiv.org/abs/2305.14456)
 - (3-2023) [Assessing Cross-Cultural Alignment between ChatGPT and Human Societies: An Empirical Study](https://arxiv.org/abs/2303.17466)
 - (3-2023) [Probing Pre-Trained Language Models for Cross-Cultural Differences in Values](https://arxiv.org/abs/2203.13722)
 
